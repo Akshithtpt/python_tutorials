@@ -25,7 +25,7 @@ plt.show()
 
 #using title
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # importing a library
 import numpy as np
 
 x = np.array([0, 1, 2, 3, 4])
